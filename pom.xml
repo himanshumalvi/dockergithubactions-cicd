@@ -36,7 +36,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>dockerCICD</finalName>
+        <finalName>dockercicd</finalName>
     </build>
 
 </project>
