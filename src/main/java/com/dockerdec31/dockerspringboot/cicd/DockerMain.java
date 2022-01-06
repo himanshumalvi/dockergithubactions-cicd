@@ -10,7 +10,7 @@ public class DockerMain {
 
     @GetMapping("/helloDocker")
     public String getStart(){
-        return "Hello Deepak"+ new Date().toGMTString();
+        return "Hello Himanshu"+ new Date().toGMTString();
     }
 
 }
