@@ -1,7 +1,8 @@
+[![Build](https://github.com/himanshumalvi/dockergithubactions-cicd/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/himanshumalvi/dockergithubactions-cicd/actions/workflows/build.yml)
 # dockergithubactions-cicd
 
 
-### Sonar \
+### Sonar 
 https://sonarcloud.io/project/overview?id=himanshumalvi_dockergithubactions-cicd
 
 ### docker registry
