@@ -1,5 +1,9 @@
 [![Build](https://github.com/himanshumalvi/dockergithubactions-cicd/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/himanshumalvi/dockergithubactions-cicd/actions/workflows/build.yml)
+
+[![Build](https://github.com/himanshumalvi/dockergithubactions-cicd/actions/workflows/build.yml/badge.svg?branch=master&event=watch)](https://github.com/himanshumalvi/dockergithubactions-cicd/actions/workflows/build.yml)
+
 # dockergithubactions-cicd
+
 
 
 ### Sonar 
